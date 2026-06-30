@@ -1,0 +1,3 @@
+{"subject": "Alert", "predicate": "observed_on", "object": "Service", "source_keys": ["runbook"], "confidence": 0.82}
+{"subject": "Runbook", "predicate": "resolves", "object": "IncidentType", "source_keys": ["runbook"], "confidence": 0.82}
+{"subject": "Metric", "predicate": "supports", "object": "RootCause", "source_keys": ["runbook"], "confidence": 0.82}

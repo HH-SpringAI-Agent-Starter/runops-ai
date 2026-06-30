@@ -1,0 +1,5 @@
+{"capability": "支持 Prometheus/Alertmanager/Loki/K8s 工具", "metric": "supported", "value": "yes", "evidence_source_keys": ["runbook"]}
+{"capability": "支持 Runbook 引用", "metric": "supported", "value": "yes", "evidence_source_keys": ["runbook"]}
+{"capability": "支持事故复盘沉淀", "metric": "supported", "value": "yes", "evidence_source_keys": ["runbook"]}
+{"capability": "支持安全审批模式", "metric": "supported", "value": "yes", "evidence_source_keys": ["runbook"]}
+{"capability": "企业版支持多集群与审计", "metric": "supported", "value": "yes", "evidence_source_keys": ["runbook"]}
