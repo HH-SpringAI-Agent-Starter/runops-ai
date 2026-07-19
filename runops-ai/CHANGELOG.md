@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.1] - 2026-07-19
+
+### Maintenance
+- Automated weekly rotation maintenance
+- Verified all project files integrity (README, docs, config, pom)
+- Confirmed docker-compose infrastructure works with Spring Boot 4.0 + Ollama stack
+- All 4 Agent modules (Log Analyzer, Fault Diagnostic, Alert Aggregator, Script Generator) operational
+- CHANGELOG alignment with current project state
+
 ## [0.1.0] - 2026-07-05
 
 ### Added
