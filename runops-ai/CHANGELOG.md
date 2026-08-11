@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2] - 2026-08-11
+
+### Maintenance
+- Weekly rotation maintenance
+- Root-level LICENSE / CONTRIBUTING.md / requirements.md added
+- Docs verified (architecture, tech stack, quick start)
+
 ## [0.1.1] - 2026-07-19
 
 ### Maintenance
